@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPSample</string>
+
+    <string name="navigation_bar_member">會員</string>
+    <string name="navigation_bar_main">商城</string>
+    <string name="navigation_bar_play_list">播放清單</string>
+</resources>
